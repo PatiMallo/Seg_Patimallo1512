@@ -1,0 +1,23 @@
+[
+    {
+        "id": "paracetamol",
+        "name": "Paracetamol",
+        "drug": "Paracetamol",
+        "presentation": "24 comprimidos",
+        "image": "/imag/paracetamol.jpg"
+    },
+    {
+        "id": "ibuprofeno",
+        "name": "Ibuprofeno",
+        "drug": "Ibuprofeno",
+        "presentation": "20 comprimidos",
+        "image": "/imag/ibuprofeno.jpg"
+    },
+    {
+        "id": "diclofenac",
+        "name": "diclofenac",
+        "drug": "diclofenac",
+        "presentation": "120 gr",
+        "image": "/imag/ibuprofeno.png"
+    }
+]

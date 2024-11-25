@@ -1,0 +1,19 @@
+.item-detail-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.item-detail-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.item-detail-container h2 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.item-detail-container p {
+  color: #666;
+  font-size: 1.2rem;
+}
